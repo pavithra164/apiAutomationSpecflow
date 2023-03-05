@@ -1,16 +1,14 @@
-# apiAutomationSpecflow
-
-CaseStudy2- API automation framework
+**CaseStudy2- API automation framework**
 
 
-**Prerequisites **
+_**Prerequisites **_
 
 download and install Rider ide or Visual studio 
 
 Add specflow plugin and add nuget packages.
 
 
-**Steps to download project from github**
+_**Steps to download project from github**_
 
 open terminal. 
 
@@ -20,7 +18,7 @@ open the folder in a terminal and download the project using url as below-
 https://github.com/pavithra164/apiAutomationSpecflow
 
 
-**Steps to open the project and run tests **
+_**Steps to open the project and run tests **_
 
 Open the project either in Rider ide or visual studio
 
