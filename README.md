@@ -10,7 +10,7 @@ download and install Rider ide or Visual studio
 Add specflow plugin and add nuget packages.
 
 
-**download project from github**
+**Steps to download project from github**
 
 open terminal. 
 
@@ -20,7 +20,7 @@ open the folder in a terminal and download the project using url as below-
 https://github.com/pavithra164/apiAutomationSpecflow
 
 
-**Open the project and run tests **
+**Steps to open the project and run tests **
 
 Open the project either in Rider ide or visual studio
 
