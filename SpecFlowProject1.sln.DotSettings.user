@@ -1,5 +1,18 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e85df83c_002Da725_002D4c47_002D81ee_002Dec3a2326a541/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SpecFlowProject1_NUnitAssemblyHooks" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6506c50d_002D0f97_002D4d9a_002D98a7_002D3eb83a4dd793/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GETRequestTesting" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;ProjectFile&gt;D34F1C97-74D1-4BCB-A598-A7206E34E892/d:Features/f:Getreq.feature.cs&lt;/ProjectFile&gt;
+    &lt;ProjectFile&gt;D34F1C97-74D1-4BCB-A598-A7206E34E892/d:Features/f:postreq.feature.cs&lt;/ProjectFile&gt;
+    &lt;ProjectFile&gt;D34F1C97-74D1-4BCB-A598-A7206E34E892/d:Features/f:patchreq.feature.cs&lt;/ProjectFile&gt;
+    &lt;ProjectFile&gt;D34F1C97-74D1-4BCB-A598-A7206E34E892/d:Features/f:putreq.feature.cs&lt;/ProjectFile&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7c76258e_002D68a3_002D4d99_002D8964_002Dec3bc1d8da47/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SpecFlowProject1_NUnitAssemblyHooks #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::D34F1C97-74D1-4BCB-A598-A7206E34E892::net6.0::SpecFlowProject1_NUnitAssemblyHooks&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e85df83c_002Da725_002D4c47_002D81ee_002Dec3a2326a541/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SpecFlowProject1_NUnitAssemblyHooks" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;TestAncestor&gt;
     &lt;TestId&gt;NUnit3x::D34F1C97-74D1-4BCB-A598-A7206E34E892::net6.0::SpecFlowProject1_NUnitAssemblyHooks&lt;/TestId&gt;
   &lt;/TestAncestor&gt;

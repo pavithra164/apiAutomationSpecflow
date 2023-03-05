@@ -22,6 +22,7 @@
 
     <ItemGroup>
       <Compile Remove="datamodel2.cs" />
+      <Compile Remove="Features\paaaa.cs" />
     </ItemGroup>
 
 </Project>
